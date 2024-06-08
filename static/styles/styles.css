@@ -1,6 +1,13 @@
+@font-face {
+    font-family: 'Monocraft';
+    src: url('../fonts/monocraft.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Monocraft', Arial, sans-serif;
     background-color: #121212;
     color: #e0e0e0;
 }

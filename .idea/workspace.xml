@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c27b9a95-e4e1-4663-b786-949726abc922" name="Changes" comment="" />
+    <list default="true" id="c27b9a95-e4e1-4663-b786-949726abc922" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/fonts/Monocraft.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ayoob_portfolio/deployment.py" beforeDir="false" afterPath="$PROJECT_DIR$/ayoob_portfolio/deployment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2hZTBxk1r613HZcSKOPQijGrVxd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,12 +44,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayoob\Desktop\Developer\Django\ayoob_portfolio\static\fonts" />
       <recent name="C:\Users\ayoob\Desktop\Developer\Django\ayoob_portfolio\static\styles" />
       <recent name="C:\Users\ayoob\Desktop\Developer\Django\ayoob_portfolio\static\scripts" />
       <recent name="C:\Users\ayoob\Desktop\Developer\Django\ayoob_portfolio\ayoob_portfolio" />
@@ -92,7 +99,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717800467608</updated>
-      <workItem from="1717800468627" duration="6674000" />
+      <workItem from="1717800468627" duration="7962000" />
+      <workItem from="1717810573895" duration="3102000" />
     </task>
     <servers />
   </component>
